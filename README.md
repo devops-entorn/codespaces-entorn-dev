@@ -1,2 +1,2 @@
-# codespaces-entorn-dev
-## entorn dev for codespaces
+# Entorn de desenvolupament Codespaces
+## Template playground for students
